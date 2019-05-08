@@ -2,13 +2,13 @@
 
 <widget xmins ="http://www.w3.org/ns/widgets"
 xmlns:gap="http://phonegap.com/ns/1.0"
-id = "com.phonegap.app5"
+id = "com.phonegap.app6"
 version ="1.0.0">
 
-<name>app5-advertencias del dispositivo</name>
+<name>app6 Desliza a la Izquierda y la Derecha</name>
 
 <description>
-Aplicacion que realiza la vibracion y beep del Dispositivo
+Aplicacion que realiza el swipe o desplazamiento en el dispositivo
 </description>
 
 <author href="https://build.phonegap.com" email="raidersoutlas@gmail.com">
